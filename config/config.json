@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Deccan India",
+    "base_url": "/",
+    "favicon": "/images/logo.png",
+    "logo": "/images/logo.png",
+    "logo_width": "60",
+    "logo_height": "60",
+    "logo_text": "Bigspring Light"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Access high-quality educational videos designed for students like you. Watch, learn, and review at your own pace, on any device. Learning has never been more flexible.",
+    "copyright": "Designed and Developed By Deccan India"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
