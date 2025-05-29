@@ -11,10 +11,18 @@
   ],
  "footer": [
     {
-      "name": "Deccan India Software",
+      "name": "Deccan India software Technologies",
       "menu": [
         {
           "text": "Educational Platform",
+          "url": "#"
+        },
+           {
+          "text": "Raid booking flatform",
+          "url": "#"
+        },
+           {
+          "text": "Business awareness flatform",
           "url": "#"
         }
       ]
