@@ -23,7 +23,15 @@
       "name": "Product",
       "menu": [
         {
-          "text": "UP Coming......",
+          "text": "Student Book",
+          "url": "#"
+        },
+          {
+          "text": "Business Guider",
+          "url": "#"
+        },
+          {
+          "text": "Happy Ride",
           "url": "#"
         }
       ]
