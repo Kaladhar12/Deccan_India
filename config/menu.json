@@ -9,16 +9,12 @@
       "url": "/contact"
     }
   ],
-  "footer": [
+ "footer": [
     {
-      "name": "Company",
+      "name": "Deccan India Software",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "#"
-        },
-        {
-          "text": "Quick Start",
+          "text": "Educational Platform",
           "url": "#"
         }
       ]
@@ -27,15 +23,7 @@
       "name": "Product",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
+          "text": "UP Coming......",
           "url": "#"
         }
       ]
@@ -45,7 +33,7 @@
       "menu": [
         {
           "text": "FAQ",
-          "url": "/faq"
+          "url": "#"
         },
         {
           "text": "Privacy Policy",
