@@ -17,16 +17,6 @@ export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en">
       <head>
-        
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BKHGHYRZ3M">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BKHGHYRZ3M');
-</script>
         {/* responsive meta */}
         <meta
           name="viewport"
