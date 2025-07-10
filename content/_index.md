@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Deccan India Software Technologies
+  title: DIDeccan India Software Technologies PVT LTD
   content: Access high-quality educational videos designed for students like you. Watch, learn, and review at your own pace, on any device. Learning has never been more flexible.
   image: /images/banner.png
   button:

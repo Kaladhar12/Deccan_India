@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Deccan India",
+    "title": "DIDeccan India",
     "base_url": "/",
     "favicon": "/images/logo.png",
     "logo": "/images/logo.png",
@@ -25,7 +25,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "Access high-quality educational videos designed for students like you. Watch, learn, and review at your own pace, on any device. Learning has never been more flexible.",
-    "copyright": "Designed and Developed By Deccan India"
+    "copyright": "Designed and Developed By DIDeccan India"
   },
 
   "metadata": {
